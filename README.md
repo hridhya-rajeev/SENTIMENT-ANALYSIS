@@ -23,6 +23,6 @@ In conclusion, this task highlighted the complete workflow of sentiment analysis
 
 # output
 
-
+![Image](https://github.com/user-attachments/assets/46a2d59f-c582-4c7c-95a5-81c1e27ce35b)
 
 
